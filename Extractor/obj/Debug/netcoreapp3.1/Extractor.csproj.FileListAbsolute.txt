@@ -1,0 +1,15 @@
+D:\Coding\Extractor\Extractor\bin\Debug\netcoreapp3.1\Extractor.exe
+D:\Coding\Extractor\Extractor\bin\Debug\netcoreapp3.1\Extractor.deps.json
+D:\Coding\Extractor\Extractor\bin\Debug\netcoreapp3.1\Extractor.runtimeconfig.json
+D:\Coding\Extractor\Extractor\bin\Debug\netcoreapp3.1\Extractor.runtimeconfig.dev.json
+D:\Coding\Extractor\Extractor\bin\Debug\netcoreapp3.1\Extractor.dll
+D:\Coding\Extractor\Extractor\bin\Debug\netcoreapp3.1\Extractor.pdb
+D:\Coding\Extractor\Extractor\obj\Debug\netcoreapp3.1\Extractor.Extractor.resources
+D:\Coding\Extractor\Extractor\obj\Debug\netcoreapp3.1\Extractor.csproj.GenerateResource.cache
+D:\Coding\Extractor\Extractor\obj\Debug\netcoreapp3.1\Extractor.AssemblyInfoInputs.cache
+D:\Coding\Extractor\Extractor\obj\Debug\netcoreapp3.1\Extractor.AssemblyInfo.cs
+D:\Coding\Extractor\Extractor\obj\Debug\netcoreapp3.1\Extractor.csproj.CoreCompileInputs.cache
+D:\Coding\Extractor\Extractor\obj\Debug\netcoreapp3.1\Extractor.dll
+D:\Coding\Extractor\Extractor\obj\Debug\netcoreapp3.1\Extractor.pdb
+D:\Coding\Extractor\Extractor\obj\Debug\netcoreapp3.1\Extractor.genruntimeconfig.cache
+D:\Coding\Extractor\Extractor\obj\Debug\netcoreapp3.1\Extractor.csprojAssemblyReference.cache
