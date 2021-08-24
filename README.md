@@ -4,4 +4,4 @@ A multi-modality data extracting tool for Kinect V2 record file.
 
 This tool only support on Win OS and need FFMPEG installed.
 
-There is a compiled application in Debug folder you can use.
+There is a compiled application in debug folder you can use.
